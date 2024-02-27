@@ -15,10 +15,6 @@ N'hésitez pas à consulter les sections suivantes pour obtenir des informations
 
 Le projet TrustHub, vise à fournir une solution de confiance pour vérifier l'intégrité des périphériques USB. La station blanche joue un rôle clé en tant que premier filtre pour détecter les éventuels matériels infectés.
 
-### Présentation de TrustHub
-
-TrustHub est un projet qui vise à garantir la sécurité des données en offrant une solution de confiance pour l'utilisation de clés USB sécurisées. Notre station blanche, portative et facilement déployable sur le terrain, est conçue pour jouer un rôle essentiel dans la prévention des risques liés aux clés USB.
-
 ### Objectif de la station blanche
 
 Le principal objectif de la station blanche est d'assurer la sécurité des données et de prévenir les risques liés aux clés USB. En agissant comme un premier filtre, la station blanche permet de détecter les périphériques USB potentiellement infectés avant leur utilisation sur des systèmes sensibles.
