@@ -12,8 +12,27 @@ En suivant ce guide, les utilisateurs seront en mesure de tirer pleinement parti
 N'hésitez pas à consulter les sections suivantes pour obtenir des informations détaillées sur l'utilisation de la station blanche.
 
 ## Introduction
+
 - Présentation de la station blanche et de son objectif dans le contexte de l'utilisation de clés USB sécurisées.
 - Explication du rôle de la station blanche pour assurer la sécurité des données et prévenir les risques liés aux clés USB.
+
+Le projet TrustHub, intitulé "Station Blanche : Guide d'utilisation des clés USB sécurisées", vise à fournir une solution de confiance pour vérifier l'intégrité des périphériques USB. La station blanche joue un rôle clé en tant que premier filtre pour détecter les éventuels matériels infectés.
+
+### Présentation de TrustHub
+
+TrustHub est un projet qui vise à garantir la sécurité des données en offrant une solution de confiance pour l'utilisation de clés USB sécurisées. Notre station blanche, portative et facilement déployable sur le terrain, est conçue pour jouer un rôle essentiel dans la prévention des risques liés aux clés USB.
+
+### Objectif de la station blanche
+
+Le principal objectif de la station blanche est d'assurer la sécurité des données et de prévenir les risques liés aux clés USB. En agissant comme un premier filtre, la station blanche permet de détecter les périphériques USB potentiellement infectés avant leur utilisation sur des systèmes sensibles.
+
+### Rôle de la station blanche
+
+La station blanche joue un rôle crucial dans la sécurité des données en assurant un contrôle préalable des clés USB. Elle permet de vérifier l'intégrité des périphériques, de détecter les menaces éventuelles et de prévenir les risques de logiciels malveillants ou d'autres contenus nuisibles.
+
+De plus, la station blanche offre la possibilité de transférer de manière sécurisée des fichiers d'une clé externe vers une clé interne chiffrée par BitLocker. Cela garantit la confidentialité des données lors de leur transfert entre les clés USB.
+
+Grâce à sa portabilité et à sa facilité de déploiement, la station blanche TrustHub peut être utilisée dans divers contextes, que ce soit sur le terrain, dans des environnements professionnels sensibles ou dans des zones à haut risque.
 
 ## Configuration initiale
 - Instructions détaillées sur la mise en place de la station blanche, y compris le branchement des câbles nécessaires et l'installation des pilotes si nécessaire.
