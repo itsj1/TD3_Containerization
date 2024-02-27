@@ -2,6 +2,15 @@
 
 # Station Blanche : Guide d'utilisation des clés USB sécurisées
 
+## Le présent document
+Le présent document constitue le profil de fonctionnalités et de sécurité pour les sas et les stations blanches. Il a pour objectif de fournir un guide d'utilisation détaillé pour la station blanche, qui est utilisée dans le contexte de l'utilisation de clés USB sécurisées.
+
+La station blanche joue un rôle crucial dans la sécurité des données en permettant la vérification, l'analyse et la désinfection des clés USB avant leur utilisation sur des systèmes sensibles. Ce guide fournit des instructions sur la configuration initiale de la station blanche, son utilisation, ses fonctionnalités principales, ainsi que des conseils sur la sécurité des données et la gestion des incidents.
+
+En suivant ce guide, les utilisateurs seront en mesure de tirer pleinement parti des fonctionnalités de la station blanche tout en maintenant un niveau élevé de sécurité pour leurs données.
+
+N'hésitez pas à consulter les sections suivantes pour obtenir des informations détaillées sur l'utilisation de la station blanche.
+
 ## Introduction
 - Présentation de la station blanche et de son objectif dans le contexte de l'utilisation de clés USB sécurisées.
 - Explication du rôle de la station blanche pour assurer la sécurité des données et prévenir les risques liés aux clés USB.
