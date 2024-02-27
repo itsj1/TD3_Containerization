@@ -13,9 +13,6 @@ N'hésitez pas à consulter les sections suivantes pour obtenir des informations
 
 ## Introduction
 
-- Présentation de la station blanche et de son objectif dans le contexte de l'utilisation de clés USB sécurisées.
-- Explication du rôle de la station blanche pour assurer la sécurité des données et prévenir les risques liés aux clés USB.
-
 Le projet TrustHub, intitulé "Station Blanche : Guide d'utilisation des clés USB sécurisées", vise à fournir une solution de confiance pour vérifier l'intégrité des périphériques USB. La station blanche joue un rôle clé en tant que premier filtre pour détecter les éventuels matériels infectés.
 
 ### Présentation de TrustHub
