@@ -55,8 +55,5 @@ Grâce à sa portabilité et à sa facilité de déploiement, la station blanche
 - Liste des problèmes courants rencontrés lors de l'utilisation de la station blanche et des solutions possibles.
 - Conseils de dépannage pour les erreurs fréquentes ou les comportements inattendus de la station blanche.
 
-## Foire aux questions (FAQ)
-- Compilation d'une liste de questions fréquemment posées sur la station blanche, accompagnées de réponses claires et concises.
-
 ## Ressources supplémentaires
 - Liens vers des ressources supplémentaires, tels que des tutoriels vidéo, des articles de support technique, ou des contacts pour obtenir de l'aide en cas de besoin.
