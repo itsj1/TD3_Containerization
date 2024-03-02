@@ -25,11 +25,19 @@ La station blanche joue un rôle crucial dans la sécurité des données en assu
 
 De plus, la station blanche offre la possibilité de transférer de manière sécurisée des fichiers d'une clé externe vers une clé interne chiffrée par BitLocker. Cela garantit la confidentialité des données lors de leur transfert entre les clés USB.
 
+### Configuration initiale
+
 Grâce à sa portabilité et à sa facilité de déploiement, la station blanche TrustHub peut être utilisée dans divers contextes, que ce soit sur le terrain, dans des environnements professionnels sensibles ou dans des zones à haut risque.
 
-## Configuration initiale
-- Instructions détaillées sur la mise en place de la station blanche, y compris le branchement des câbles nécessaires et l'installation des pilotes si nécessaire.
-- Exigences du système, telles que les spécifications matérielles minimales et les systèmes d'exploitation compatibles.
+Pour mettre en place la station blanche du projet TrustHub, suivez attentivement ces instructions :
+
+1. **Branchement des câbles :**
+   - Connectez le câble d'alimentation fourni à l'emplacement prévu sur le côté gauche du boîtier de la station blanche.
+   - Une fois le câble correctement connecté, la station blanche s'allumera automatiquement. Vous verrez également une LED s'allumer à côté du port d'alimentation pour indiquer que l'appareil est en cours de démarrage.
+
+2. **Installation des pilotes :**
+   - En règle générale, la station blanche TrustHub ne nécessite pas l'installation de pilotes supplémentaires. Elle est conçue pour fonctionner de manière autonome et sécurisée, sans dépendre de logiciels tiers.
+
 
 ## Utilisation de la station blanche
 - Étapes à suivre pour connecter les clés USB à la station, en soulignant l'emplacement approprié pour les clés externes et les clés de l'entreprise.
