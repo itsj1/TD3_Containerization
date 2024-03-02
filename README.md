@@ -69,6 +69,12 @@ La station blanche TrustHub offre plusieurs fonctionnalités pour assurer la sé
    - Une fois l'analyse terminée, les fichiers sont transférés de manière sécurisée de la clé externe vers la clé d'entreprise. Les fichiers sont ensuite supprimés de la clé externe pour des raisons de sécurité.
    - La durée de cette opération peut varier en fonction de la quantité et de la taille des fichiers à transférer.
    - Une fois le transfert terminé, vous pouvez débrancher les clés en toute sécurité.
+
+
+3. **Gestion des menaces détectées :**
+   - Si un virus ou une autre menace est détecté lors de l'analyse d'une clé USB, suivez les instructions indiquées sur l'écran de la station.
+   - La station se bloque automatiquement en cas de détection d'une menace pour empêcher toute propagation éventuelle.
+
      
 Ces fonctionnalités permettent à l'utilisateur de sécuriser et de gérer efficacement les données sur ses clés USB, tout en garantissant la protection contre les menaces potentielles.
 
