@@ -58,7 +58,7 @@ La station blanche TrustHub offre plusieurs fonctionnalités pour assurer la sé
 1. **Vérification de l'intégrité des clés USB :**
    - Pour vérifier l'intégrité d'une clé USB (externe ou d'entreprise), branchez-la dans le port approprié.
    - Sur l'écran tactile de la station blanche, sélectionnez l'option "Analyser la clé".
-   - Une fois sélectionnée, la procédure de vérification se lance, affichant un écran de chargement. La durée de cette opération peut varier en fonction de la quantité de fichiers à analyser sur la clé.
+   - Une fois sélectionnée, la procédure de vérification se lance, affichant un écran de chargement. La durée de cette opération peut varier en fonction du volume de fichiers à analyser sur la clé.
    - Une fois l'analyse terminée, vous pouvez débrancher la clé en toute sécurité.
 
 
