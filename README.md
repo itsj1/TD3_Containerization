@@ -47,7 +47,7 @@ Une fois la configuration initiale terminée, suivez ces étapes pour utiliser e
    - La station blanche est équipée de 2 ports USB accessibles. Le port USB supérieur est réservé à la clé externe, tandis que le port USB inférieur est réservé aux clés d'entreprise, initialement configurées à l'aide du protocole de la station mère.
 
 2. **Détection automatique des clés USB :**
-   - Lorsque vous connectez une clé USB au port approprié de la station blanche, celle-ci effectue automatiquement une vérification de l'intégrité du périphérique. La station blanche est programmée pour reconnaître les clés externes et les clés d'entreprise. Si une clé est connectée dans le mauvais port, un message d'erreur s'affichera pour indiquer à l'utilisateur de la rebrancher dans le port approprié.
+   - La station blanche est programmée pour reconnaître les clés externes et les clés d'entreprise. Si une clé est connectée dans le mauvais port, un message d'erreur s'affichera pour indiquer à l'utilisateur de la rebrancher dans le port approprié.
    - En fonction du nombre de clés branchées (une ou deux), la station proposera différentes fonctionnalités que l'utilisateur pourra choisir selon ses besoins (voir section Fonctionnalités principales).
 
 
