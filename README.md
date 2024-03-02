@@ -25,9 +25,9 @@ La station blanche joue un rôle crucial dans la sécurité des données en assu
 
 De plus, la station blanche offre la possibilité de transférer de manière sécurisée des fichiers d'une clé externe vers une clé interne chiffrée par BitLocker. Cela garantit la confidentialité des données lors de leur transfert entre les clés USB.
 
-### Configuration initiale
-
 Grâce à sa portabilité et à sa facilité de déploiement, la station blanche TrustHub peut être utilisée dans divers contextes, que ce soit sur le terrain, dans des environnements professionnels sensibles ou dans des zones à haut risque.
+
+### Configuration initiale
 
 Pour mettre en place la station blanche du projet TrustHub, suivez attentivement ces instructions :
 
