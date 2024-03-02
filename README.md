@@ -90,4 +90,4 @@ Ces fonctionnalités permettent à l'utilisateur de sécuriser et de gérer effi
 - Conseils de dépannage pour les erreurs fréquentes ou les comportements inattendus de la station blanche.
 
 ## Ressources supplémentaires
-- Liens vers des ressources supplémentaires, tels que des tutoriels vidéo, des articles de support technique, ou des contacts pour obtenir de l'aide en cas de besoin.
+- 
