@@ -59,6 +59,8 @@ La station blanche TrustHub offre plusieurs fonctionnalités pour assurer la sé
    - Pour vérifier l'intégrité d'une clé USB (externe ou d'entreprise), branchez-la dans le port approprié.
    - Sur l'écran tactile de la station blanche, sélectionnez l'option "Analyser la clé".
    - Une fois sélectionnée, la procédure de vérification se lance, affichant un écran de chargement. La durée de cette opération peut varier en fonction de la quantité de fichiers à analyser sur la clé.
+   - Une fois l'analyse terminée, vous pouvez débrancher la clé en toute sécurité.
+
 
 2. **Transfert sécurisé de fichiers entre clés USB :**
    - Pour transférer des fichiers d'une clé externe vers une clé d'entreprise, branchez les deux clés dans les ports appropriés.
@@ -66,7 +68,8 @@ La station blanche TrustHub offre plusieurs fonctionnalités pour assurer la sé
    - Avant le transfert, les deux clés sont analysées pour vérifier leur intégrité.
    - Une fois l'analyse terminée, les fichiers sont transférés de manière sécurisée de la clé externe vers la clé d'entreprise. Les fichiers sont ensuite supprimés de la clé externe pour des raisons de sécurité.
    - La durée de cette opération peut varier en fonction de la quantité et de la taille des fichiers à transférer.
-
+   - Une fois le transfert terminé, vous pouvez débrancher les clés en toute sécurité.
+     
 Ces fonctionnalités permettent à l'utilisateur de sécuriser et de gérer efficacement les données sur ses clés USB, tout en garantissant la protection contre les menaces potentielles.
 
 
