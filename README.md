@@ -39,9 +39,20 @@ Pour mettre en place la station blanche du projet TrustHub, suivez attentivement
    - La station blanche TrustHub ne nécessite pas l'installation de pilotes supplémentaires. Elle est conçue pour fonctionner de manière autonome et sécurisée, sans dépendre de logiciels tiers.
 
 
-## Utilisation de la station blanche
-- Étapes à suivre pour connecter les clés USB à la station, en soulignant l'emplacement approprié pour les clés externes et les clés de l'entreprise.
-- Explication de la détection automatique des clés USB par la station blanche et de leur reconnaissance.
+### Utilisation de la station blanche
+
+Une fois la configuration initiale terminée, suivez ces étapes pour utiliser efficacement la station blanche du projet TrustHub :
+
+1. **Connexion des clés USB :**
+   - La station blanche est équipée de 2 ports USB accessibles. Le port USB supérieur est réservé à la clé externe, tandis que le port USB inférieur est réservé aux clés d'entreprise, initialement configurées à l'aide du protocole de la station mère.
+
+2. **Détection automatique des clés USB :**
+   - Lorsque vous connectez une clé USB au port approprié de la station blanche, celle-ci effectue automatiquement une vérification de l'intégrité du périphérique. La station blanche est programmée pour reconnaître les clés externes et les clés d'entreprise. Si une clé est connectée dans le mauvais port, un message d'erreur s'affichera pour indiquer à l'utilisateur de la rebrancher dans le port approprié.
+   - En fonction du nombre de clés branchées (une ou deux), la station proposera différentes fonctionnalités que l'utilisateur pourra choisir selon ses besoins (voir section Fonctionnalités principales).
+
+
+En suivant ces étapes, vous pouvez connecter et utiliser vos clés USB de manière sécurisée avec la station blanche TrustHub, garantissant ainsi la protection de vos données contre les menaces potentielles.
+
 
 ## Fonctionnalités principales
 - Détails des fonctionnalités offertes par la station blanche, telles que la vérification des clés USB, l'analyse des fichiers, la désinfection des clés infectées, etc.
