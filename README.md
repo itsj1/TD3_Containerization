@@ -1,6 +1,6 @@
 # TrustHub 
 
-# Station Blanche : Guide d'utilisation des clés USB sécurisées
+# Station Blanche : Guide d'utilisation 
 
 ## Objet du document
 Le présent document constitue le profil de fonctionnalités et de sécurité des stations blanches TrustHub. Il a pour objectif de fournir un guide d'utilisation détaillé pour la station blanche, qui est utilisée dans le contexte de l'utilisation de clés USB sécurisées.
