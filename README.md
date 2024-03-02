@@ -75,6 +75,7 @@ La station blanche TrustHub offre plusieurs fonctionnalités pour assurer la sé
    - Si un virus ou une autre menace est détecté lors de l'analyse d'une clé USB, suivez les instructions indiquées sur l'écran de la station.
    - La station se bloque automatiquement en cas de détection d'une menace pour empêcher toute propagation éventuelle.
 
+
      
 Ces fonctionnalités permettent à l'utilisateur de sécuriser et de gérer efficacement les données sur ses clés USB, tout en garantissant la protection contre les menaces potentielles.
 
