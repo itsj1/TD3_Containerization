@@ -36,7 +36,7 @@ Pour mettre en place la station blanche du projet TrustHub, suivez attentivement
    - Une fois le câble correctement connecté, la station blanche s'allumera automatiquement. Vous verrez également une LED s'allumer à côté du port d'alimentation pour indiquer que l'appareil est en cours de démarrage.
 
 2. **Installation des pilotes :**
-   - En règle générale, la station blanche TrustHub ne nécessite pas l'installation de pilotes supplémentaires. Elle est conçue pour fonctionner de manière autonome et sécurisée, sans dépendre de logiciels tiers.
+   - La station blanche TrustHub ne nécessite pas l'installation de pilotes supplémentaires. Elle est conçue pour fonctionner de manière autonome et sécurisée, sans dépendre de logiciels tiers.
 
 
 ## Utilisation de la station blanche
