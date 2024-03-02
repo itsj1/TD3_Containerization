@@ -51,12 +51,24 @@ Une fois la configuration initiale terminée, suivez ces étapes pour utiliser e
    - En fonction du nombre de clés branchées (une ou deux), la station proposera différentes fonctionnalités que l'utilisateur pourra choisir selon ses besoins (voir section Fonctionnalités principales).
 
 
-En suivant ces étapes, vous pouvez connecter et utiliser vos clés USB de manière sécurisée avec la station blanche TrustHub, garantissant ainsi la protection de vos données contre les menaces potentielles.
-
-
 ## Fonctionnalités principales
-- Détails des fonctionnalités offertes par la station blanche, telles que la vérification des clés USB, l'analyse des fichiers, la désinfection des clés infectées, etc.
-- Instructions sur l'utilisation de chaque fonctionnalité, avec des exemples et des captures d'écran si nécessaire.
+
+La station blanche TrustHub offre plusieurs fonctionnalités pour assurer la sécurité des clés USB et des données qu'elles contiennent. Voici un aperçu des principales fonctionnalités et des instructions sur leur utilisation :
+
+1. **Vérification de l'intégrité des clés USB :**
+   - Pour vérifier l'intégrité d'une clé USB (externe ou d'entreprise), branchez-la dans le port approprié.
+   - Sur l'écran tactile de la station blanche, sélectionnez l'option "Analyser la clé".
+   - Une fois sélectionnée, la procédure de vérification se lance, affichant un écran de chargement. La durée de cette opération peut varier en fonction de la quantité de fichiers à analyser sur la clé.
+
+2. **Transfert sécurisé de fichiers entre clés USB :**
+   - Pour transférer des fichiers d'une clé externe vers une clé d'entreprise, branchez les deux clés dans les ports appropriés.
+   - Sur l'écran tactile, sélectionnez l'option "Transférer les fichiers vers clé d'entreprise".
+   - Avant le transfert, les deux clés sont analysées pour vérifier leur intégrité.
+   - Une fois l'analyse terminée, les fichiers sont transférés de manière sécurisée de la clé externe vers la clé d'entreprise. Les fichiers sont ensuite supprimés de la clé externe pour des raisons de sécurité.
+   - La durée de cette opération peut varier en fonction de la quantité et de la taille des fichiers à transférer.
+
+Ces fonctionnalités permettent à l'utilisateur de sécuriser et de gérer efficacement les données sur ses clés USB, tout en garantissant la protection contre les menaces potentielles.
+
 
 ## Sécurité des données
 - Mise en évidence des mesures de sécurité mises en place par la station blanche pour protéger les données sensibles.
